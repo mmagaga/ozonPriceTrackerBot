@@ -1,0 +1,5 @@
+import os
+
+API_TOKEN="8160442836:AAFieRshoYcU5ZXaFp-BCKh3WXnCHTHqAeE"
+ADMIN_LOGIN = "admin"
+ADMIN_PASSWORD = "password123"
